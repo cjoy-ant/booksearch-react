@@ -1,4 +1,4 @@
-.TitleSearch {
+.SearchTerm {
   background: #909090;
   text-align: center;
   padding: 5px;
@@ -7,4 +7,8 @@
 .Filters {
   background: #c5c5c5;
   padding: 5px;
+}
+
+.error {
+  color: darkred;
 }
